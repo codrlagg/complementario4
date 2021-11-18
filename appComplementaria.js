@@ -13,7 +13,7 @@ function calculadora(operacion, numUno, numDos) {
             break;
         case "4":
             return var1 / var2;
-            break;
+            break;1
         default:
             return 0;
             break;
