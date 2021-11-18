@@ -1,0 +1,10 @@
+Costo de vender un articulo en mercadolibre
+
+funcion uno
+    Calcula la comision de la venta más la retención de impuestos
+
+funcion dos
+    Calcula los costos de envio
+
+funcion tres
+    Calcula la cantidad total de dinero a percibir
